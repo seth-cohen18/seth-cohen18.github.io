@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/08mBujqq)
 # CSS Resume Assignment
 
@@ -53,3 +54,6 @@ The link to the Google sheet is provided in the instructions sheet linked above.
   submit your cv - `git push` 
 
 
+=======
+# seth-cohen18.github.io
+>>>>>>> 5ed896ea96e7a5137b92366a84de0a2f7feaa31d
